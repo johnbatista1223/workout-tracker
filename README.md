@@ -7,8 +7,8 @@ this application is a fitness tracker which uses mongoDB database and mongoose, 
 To install the app you can clone it from this repo https://github.com/johnbatista1223/workout-tracker to local machine, also install node.js. once node is installed you can seed your mongo database using the npm run seed in your terminal.
 ## Usage
  once everything is up and loaded you can load up page in browser using local host 3001 then you can start the app normally and pick each work out to log !
- <img src="Develop/models/pictures/fitness.png" alt="fitness" width=300>
- <img src="Develop/models/pictures/graph.png" alt="fitness" width=300>
+ <img src="pictures/fitness.png" alt="fitness" width=300>
+ <img src="pictures/graph.png" alt="fitness" width=300>
 
 ## License
 MIT License
